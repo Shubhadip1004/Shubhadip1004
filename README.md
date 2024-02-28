@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python 3, MySQL, C, C++, Java, Oracle**
 
-- 📫 How to reach me **w.shubhadip.w@gmail.com**
+- 📫 How to reach me **shubhadip.w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
